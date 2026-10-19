@@ -11,3 +11,8 @@ This repository contains Python scripts I am building to analyze reservoir engin
 ## Tools Used
 - Python (Pandas, Matplotlib, Scipy)
 - Git & GitHub
+
+## Repository Files
+- `porosity_calculator.py`: Calculates porosity from density log readings.
+- `permeability_estimator.py`: Estimates permeability using the Timur equation.
+- `decline_curve.py`: Generates a production decline curve using Matplotlib.
