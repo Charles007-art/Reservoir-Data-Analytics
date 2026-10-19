@@ -1,4 +1,4 @@
-# Reservo# Reservoir Data Analytics 
+# Reservoir Data Analytics 
 
 Welcome to my data analytics portfolio. I am a first-year Petroleum Engineering student at Universiti Teknologi PETRONAS (UTP). 
 
@@ -10,5 +10,4 @@ This repository contains Python scripts I am building to analyze reservoir engin
 
 ## Tools Used
 - Python (Pandas, Matplotlib, Scipy)
-- Git & GitHubir-Data-Analytics
-My first Python Project for Reservoir Engineering
+- Git & GitHub
